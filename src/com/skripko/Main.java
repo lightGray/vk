@@ -19,7 +19,7 @@ public class Main {
     public static final String ADMIN_TAB ="?act=users&tab=admins";
     public static final int POSTS_MONITORING_COUNT = 50;
     public static final int EXCEL_SCANNED_DAYS = 7;
-    public static final String[] PUBLIC_URLS = {"https://vk.com/vk.atheism"};
+    public static final String[] PUBLIC_URLS = {""};
 
 
     public static void main(String[] args) {
