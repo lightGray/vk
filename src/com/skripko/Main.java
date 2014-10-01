@@ -13,8 +13,8 @@ import static com.codeborne.selenide.Selenide.open;
 
 public class Main {
 
-    public static final String LOGIN = "lightgray@mail.ru";
-    public static final String PASS = "soad34lG#v";
+    public static final String LOGIN = "";
+    public static final String PASS = "";
 
     public static final String ADMIN_TAB ="?act=users&tab=admins";
     public static final int POSTS_MONITORING_COUNT = 50;
